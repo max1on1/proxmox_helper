@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+proxmoxer
+python-dotenv
+requests
+structlog
+typing_extensions
+typing
